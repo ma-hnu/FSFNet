@@ -1,4 +1,4 @@
-# FSFNet,
+# FSFNet
 
 This work presents **FSFNet**, our solution for the eye contact detection task in MultiMediate2024.
 
