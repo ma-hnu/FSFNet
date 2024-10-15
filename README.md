@@ -6,6 +6,11 @@ Fuyan Ma, Yiran He, Bin Sun, Shutao Li. [**"Less is More: Adaptive Feature Selec
 
 ![teaser](assets/method.png)
 
+## Dataset
+Please follow the instructions and download the MPIIGroupInteraction dataset in [the MultiMediate Challenge](https://multimediate-challenge.org/datasets/Dataset_MPII/).
+
+
+
 ## Citation
 
 If you find this repo useful for your research, please consider citing the paper as follows:
