@@ -2,7 +2,7 @@
 
 This work presents **FSFNet**, our solution for the eye contact detection task in MultiMediate2024.
 
-Fuyan Ma, Yiran He, Bin Sun, Shutao Li. [**"Less is More: Adaptive Feature Selection and Fusion for Eye Contact Detection"**](./assets/main_paper.pdf). ACM Multimedia 2024.
+Fuyan Ma, Yiran He, Bin Sun, Shutao Li. [**"Less is More: Adaptive Feature Selection and Fusion for Eye Contact Detection"**](./assets/paper.pdf). ACM Multimedia 2024.
 
 ![teaser](assets/method.png)
 
