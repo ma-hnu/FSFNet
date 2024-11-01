@@ -81,11 +81,11 @@ class Backbone(Module):
                                       PReLU(64))
         modules = []
         for block in blocks:
-            for bottleneck in block:
+            for b in block:
                 modules.append(
-                    bottleneck(bottleneck.in_channel,
-                                bottleneck.depth,
-                                bottleneck.stride))
+                    bottleneck(b.in_channel,
+                                b.depth,
+                                b.stride))
         self.body = Sequential(*modules)
 
 
